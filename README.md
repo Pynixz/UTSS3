@@ -12,7 +12,7 @@
 Home: berisi Judul Halaman, Navbar sebagai Navigasi (Home, Features, About, Services, Contact).
 
 -  Halaman About
--  ![Screenshot 2024-11-05 223944](https://github.com/user-attachments/assets/4b08ac0e-97d5-419f-bc23-169fcf2a1745)
+ ![Screenshot 2024-11-05 223944](https://github.com/user-attachments/assets/4b08ac0e-97d5-419f-bc23-169fcf2a1745)
 About: berisi platform yang didedikasikan untuk para pecinta anime. Di sini, Anda dapat menemukan berbagai anime, mulai dari klasik hingga rilis terbaru.
 
 -  Halaman Contact dan Form:
